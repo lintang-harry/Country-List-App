@@ -1,0 +1,41 @@
+/* styles-light.css */
+
+/* Gaya untuk judul */
+.text-black {
+    color: #000;
+  }
+  
+  /* Gaya untuk teks slate */
+  .text-slate-700 {
+    color: #4a5568;
+  }
+  
+  /* Gaya untuk latar belakang */
+  .bg-white {
+    background-color: #fff;
+  }
+  
+  /* Gaya untuk tombol kembali */
+  .bg-white {
+    background-color: #fff;
+  }
+  
+  .text-gray-700 {
+    color: #4a5568;
+  }
+  
+  /* Gaya untuk tombol kembali saat hover */
+  .bg-gray-200 {
+    background-color: #edf2f7;
+  }
+  
+  /* Gaya untuk bayangan */
+  .shadow {
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  }
+  
+  /* Gaya untuk garis tepi */
+  .rounded {
+    border-radius: 0.25rem;
+  }
+  
