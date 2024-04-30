@@ -10,7 +10,7 @@ Below is a look at the responsive internship test website project page I worked 
 ### Built With
 
 * [![React][React.js]][React-url]
-* [![Tailwint][Tailwindcss]][Tailwindcss-url]
+* [![Tailwind CSS][Tailwind CSS]][Tailwind-url]
 * [![Node][Node.js]][Node-url]
 
 ## Getting Started
@@ -33,3 +33,11 @@ Below is a look at the responsive internship test website project page I worked 
 
 ## Contact
 Muhammad Lintang Harry Sutanto - lintangmuhammad68@gmail.com
+
+<!-- MARKDOWN LINKS & IMAGES -->
+[React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
+[React-url]: https://reactjs.org/
+[Tailwind CSS]: https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white
+[Tailwind-url]: https://tailwindcss.com/
+[Node.js]: https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white
+[Node-url]: https://nodejs.org/
