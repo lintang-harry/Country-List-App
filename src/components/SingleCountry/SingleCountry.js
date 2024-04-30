@@ -50,25 +50,6 @@ export default function SingleCountry() {
                   <li>Languages: {Object.values(item.languages).join(", ")}</li>
                 )}
               </ul>
-
-              {item.borders && (
-                <>
-                  <h3 className="text-gray-900 font-bold text-lg mb-2 dark:text-white">
-                    Borders:
-                  </h3>
-                  <ul className="flex flex-wrap items-start justify-start gap-2">
-                    {item.borders.map((border, index) => (
-                      <li
-                        key={index}
-                        className="bg-black p-2 rounded text-xs tracking-wide shadow dark:bg-gray-800 dark:text-gray-400 text-white"
-                      >
-                        {border}
-                      </li>
-                    ))}
-                  </ul>
-                </>
-              )}
-
               <Link
                 to="/"
                 className="inline-block mt-8 bg-black py-2 px-6 rounded shadow text-white hover:bg-gray-200 transition-all duration-200 dark:bg-gray-800 dark:hover:bg-gray-700 dark:text-white"
